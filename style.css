@@ -3,3 +3,10 @@ body{
 font-family: 'Grape', cursive;
 
 }
+hr{
+    border:rgb(0, 0, 0) solid 2px;
+}
+
+h1{
+    text-decoration: black solid underline;
+}
